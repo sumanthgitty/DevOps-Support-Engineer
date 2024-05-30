@@ -17,7 +17,7 @@ A README file with instructions on how to build and run the image.
 Steps to Build the Docker Image
 #### 1.Create a file named Dockerfile.
 
-- [Dockerfile](https://github.com/sumanthgitty/DevOps-Support-Engineer/blob/main/Docker/Dockerfile)
+[Dockerfile](https://github.com/sumanthgitty/DevOps-Support-Engineer/blob/main/Docker/Dockerfile)
 
 ```bash
 # Use Ubuntu 16.04 as the base image
@@ -37,7 +37,7 @@ CMD ["bash"]
 docker pull ubuntu:16.04
 ```
 
-This step ensures you are using the latest version of the Ubuntu 16.04 image available and can help you troubleshoot any network issues separately from the build process.
+This step ensures you are using the latest version of the Ubuntu 16.04 image available.
 
 #### 3.Build the Docker image using the docker build command:
 
