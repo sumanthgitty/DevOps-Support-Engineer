@@ -24,11 +24,9 @@ A README file with instructions how to run.
 
 ### Solution
 
-# Managing Disk Space Script
+#### Managing Disk Space Script
 
 This script is designed to clean out `.wav` audio files from the `/data/audios/folder` directory that are older than a specified number of hours. By default, it deletes files older than 40 hours. You can specify a different time threshold as an argument.
-
-## Usage Instructions
 
 1. **Ensure the script is executable:**
 
