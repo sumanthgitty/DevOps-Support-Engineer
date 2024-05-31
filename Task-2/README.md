@@ -34,15 +34,15 @@ This script audits various hardware and system specifications on a RHEL system. 
 
 You can find the script at the following link:
 
-[script.sh]()
+[script.sh](https://github.com/sumanthgitty/DevOps-Support-Engineer/blob/main/Task-2/script.sh)
 
 #### How to Execute
 Make the script executable: Before running the script, ensure it has execute permissions. You can do this with the following command:
 
 ```bash
 chmod +x script.sh
-Run the script: Execute the script by running:
 ```
+Run the script: Execute the script by running:
 
 ```bash
 ./script.sh
