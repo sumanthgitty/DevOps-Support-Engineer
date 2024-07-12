@@ -56,6 +56,3 @@ This script is designed to clean out `.wav` audio files from the `/data/audios/f
 
     Example log file name: `deleted-files-31-05-2024.log`
 
-## Note
-
-I didn't understand the find and delete part; I found it difficult. Therefore, I conducted research online to complete this task, as I am a beginner. I'm eager to learn more and passionate about DevOps. Given the opportunity, I'm committed to expanding my knowledge and skills in this field.
