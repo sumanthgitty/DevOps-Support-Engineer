@@ -12,6 +12,4 @@ I am passionate about DevOps and eager to gain more knowledge in this field. Giv
 
 Furthermore, you can check out my other repositories to see more of my work or projects.
 
-If you have any further questions or tasks, feel free to reach out!
-
 Thank you!!
